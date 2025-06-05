@@ -53,7 +53,7 @@ Use a test set or cross-validation.
 Given a new message, transform it using the same TF-IDF vectorizer and classify it as spam or not spam using the trained model.
 ## Visuals
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Spam Classifier](https://github.com/user-attachments/assets/81bbcd19-5dcc-4747-a2a6-c2fd53292479)
 
 
 ## Authors
