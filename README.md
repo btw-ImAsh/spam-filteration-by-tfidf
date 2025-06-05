@@ -8,7 +8,9 @@ Spam classification using TF-IDF is a common Natural Language Processing (NLP) a
 
 - **Python:** For data preprocessing.
 
-- **Pandas/Matplotlib:** Libraries for further data manupulation and cleaning.
+- **Pandas/Matplotlib/ScikitLearn:** Libraries for further data manupulation and cleaning and machine learning.
+
+- **NLTK/re:** Libraries for performing texual operations.
 
 - **Streamlit:** For frontend and UI.
 
